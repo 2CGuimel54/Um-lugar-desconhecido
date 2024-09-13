@@ -1,4 +1,4 @@
-Miguel Isaac V. Gomes-2C (27/08/2024)
+// Miguel Isaac V. Gomes-2C (27/08/2024)
 const avanca = document.querySelectorAll('.btn-proximo');
 avanca.forEach(button => {
     button.addEventListener('click', function () {
